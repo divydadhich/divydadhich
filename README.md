@@ -3,54 +3,65 @@
 
 **Full Stack Developer | MERN Stack Developer**
 
-I build scalable, responsive, and user-focused web applications using
-modern frontend and backend technologies. My expertise includes
-REST APIs, database management, authentication, and full-stack
-application development.
+I build scalable, responsive, and user-focused web applications using modern frontend and backend technologies. My expertise includes full-stack development, REST API integration, database management, and SaaS application development.
 
-## Live Projects
+## Live Work
 
-| Project | Description | Live Link |
-|---|---|---|
-| XOTO Properties | Real estate and property management platform | [Visit Website]((https://xoto.ae/)) |
-| Portfolio | Personal portfolio and development projects | [Visit Portfolio]((https://portfolio-xi-bay-28.vercel.app/)) |
-| Hotel Management SaaS | QR-based ordering, payments, and restaurant management | [View Project](YOUR_LINK) |
-| Savage & Sage | IT services and digital solutions website | [Visit Website](YOUR_LINK) |
-| SkillX | Technology learning and career development platform | [View Project](YOUR_LINK) |
+| Project | What it is | Link |
+|---------|------------|------|
+| XOTO | Real estate and property management platform | [xoto.ae](https://xoto.ae/) |
+| Portfolio | Personal developer portfolio showcasing my skills, experience, and projects | [View Portfolio](https://portfolio-xi-bay-28.vercel.app/) |
+
+## Other Projects
+
+| Project | Description |
+|---------|-------------|
+| Hotel Management SaaS | QR-based digital menus, table ordering, online payments, and restaurant management |
+| BTM Financial | Financial and technology services website |
+| Savage & Sage | IT services and digital solutions platform |
+| SkillX | Technology learning and career development platform |
 
 ## Technical Skills
 
 | Category | Technologies |
-|---|---|
+|----------|-------------|
 | Frontend | React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
 | Backend | Node.js, Express.js, REST APIs |
-| Database | MongoDB |
+| Database | MongoDB, MongoDB Atlas |
 | State Management | Redux, Context API |
-| Authentication | JWT, bcrypt |
-| Tools | Git, GitHub, Postman, VS Code, Docker |
-| Deployment | Vercel, Render |
+| Authentication | JWT, bcrypt, Role-Based Access Control |
+| Developer Tools | Git, GitHub, Postman, VS Code |
+| Deployment & Cloud | Vercel, Render, Docker, Cloudinary |
+| UI & Animation | Framer Motion, Responsive Web Design |
 
-## What I Do
+## Core Expertise
 
-- Full-stack web application development
-- SaaS application development
-- REST API development and integration
-- Responsive and modern user interfaces
-- Database design and management
-- Authentication and role-based access control
+- Full Stack Web Application Development
+- MERN Stack Development
+- SaaS Application Development
+- REST API Development and Integration
+- Database Design and Management
+- Authentication and Authorization
+- Responsive and Interactive User Interfaces
+- Application Debugging and Performance Optimization
+- Third-Party API Integration
 
 ## Currently Exploring
 
-- Scalable backend architecture
-- AI-assisted application development
-- Cloud technologies and DevOps
-- System design
+- Scalable Backend Architecture
+- System Design
+- Cloud Technologies and DevOps
+- AI-Assisted Application Development
+
+## Professional Interests
+
+I am passionate about building practical digital solutions that solve real-world business problems. I enjoy working on scalable web applications, intuitive user interfaces, and efficient backend systems while continuously improving my technical expertise.
 
 ## Connect With Me
 
-- [LinkedIn](YOUR_LINK)
-- [Portfolio](YOUR_LINK)
-- Email: YOUR_EMAIL
+- Portfolio: [Visit My Portfolio](https://portfolio-xi-bay-28.vercel.app/)
+- GitHub: [github.com/divydadhich](https://github.com/divydadhich)
 
-**Open to Full Stack Developer, MERN Stack Developer,
-React.js Developer, and Node.js Developer opportunities.**
+---
+
+**Open to Full Stack Developer, MERN Stack Developer, React.js Developer, and Node.js Developer opportunities.**
